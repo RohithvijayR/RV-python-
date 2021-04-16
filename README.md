@@ -1,2 +1,0 @@
-# RV-python
-enjoy codding!!!!
